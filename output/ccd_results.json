@@ -1,0 +1,27 @@
+{
+  "tensile_strength_model": {
+    "polynomial_ridge_r2": 0.8834553848129223,
+    "random_forest_r2": 0.8161836028750638,
+    "selected_model": "polynomial_ridge",
+    "selected_r2": 0.8834553848129223,
+    "n_train": 240,
+    "n_test": 80
+  },
+  "rsm_r2": 0.997978974287189,
+  "optimum": {
+    "roll_pressure_bar": 68.64406779661016,
+    "roll_speed_rpm": 7.881355932203389,
+    "gap_width_mm": 2.4745762711864407,
+    "predicted_ribbon_density": 0.7980373736293735
+  },
+  "variability": {
+    "baseline_setting": {
+      "roll_pressure_bar": 60.0,
+      "roll_speed_rpm": 10.0,
+      "gap_width_mm": 3.0
+    },
+    "baseline_std": 0.009500934306899628,
+    "optimum_std": 0.006012713289060134,
+    "pct_variability_reduction": 36.714505175626044
+  }
+}

@@ -1,0 +1,8 @@
+{
+  "polynomial_ridge_r2": 0.8834553848129223,
+  "random_forest_r2": 0.8161836028750638,
+  "selected_model": "polynomial_ridge",
+  "selected_r2": 0.8834553848129223,
+  "n_train": 240,
+  "n_test": 80
+}
